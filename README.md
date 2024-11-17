@@ -7,7 +7,7 @@ I'm that CyberOps expert
 I'm a passionate and motivated CyberOps specialist aiming to always learn more at every opportunity. My expertise are in Unix tools, Linux administration skills, network security, security policy, and organizational risk management.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/Danito-101/Cybersecurity-profile-portfolio.github.io)
+* 🖥️  See my portfolio at [My Portfolio](http://danito-101.github.io/Cybersecurity-profile-portfolio.github.io/)
 * ✉️  You can contact me at [druel5050@yahoo.com](mailto:druel5050@yahoo.com)
 * 🧠  I'm learning Ansible
 * 🤝  I'm open to collaborating on Projects
